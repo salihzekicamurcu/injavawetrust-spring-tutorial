@@ -19,6 +19,5 @@ public class EmployeeSetterInjectionTest {
 		System.out.println(employee2);
 
 		ctx.close();
-
 	}
 }
